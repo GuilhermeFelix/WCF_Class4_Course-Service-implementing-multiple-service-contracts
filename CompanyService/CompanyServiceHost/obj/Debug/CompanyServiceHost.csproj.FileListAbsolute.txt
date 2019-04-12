@@ -1,0 +1,11 @@
+C:\VideoAulas\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe.config
+C:\VideoAulas\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe
+C:\VideoAulas\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.pdb
+C:\VideoAulas\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.dll
+C:\VideoAulas\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.pdb
+C:\VideoAulas\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.dll.config
+C:\VideoAulas\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csprojAssemblyReference.cache
+C:\VideoAulas\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CoreCompileInputs.cache
+C:\VideoAulas\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CopyComplete
+C:\VideoAulas\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.exe
+C:\VideoAulas\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.pdb

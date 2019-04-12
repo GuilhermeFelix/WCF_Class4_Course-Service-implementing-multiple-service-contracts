@@ -1,0 +1,7 @@
+C:\VideoAulas\CompanyService\CompanyService\bin\Debug\CompanyService.dll.config
+C:\VideoAulas\CompanyService\CompanyService\bin\Debug\CompanyService.dll
+C:\VideoAulas\CompanyService\CompanyService\bin\Debug\CompanyService.pdb
+C:\VideoAulas\CompanyService\CompanyService\obj\Debug\CompanyService.csprojAssemblyReference.cache
+C:\VideoAulas\CompanyService\CompanyService\obj\Debug\CompanyService.csproj.CoreCompileInputs.cache
+C:\VideoAulas\CompanyService\CompanyService\obj\Debug\CompanyService.dll
+C:\VideoAulas\CompanyService\CompanyService\obj\Debug\CompanyService.pdb
